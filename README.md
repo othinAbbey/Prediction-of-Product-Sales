@@ -91,3 +91,8 @@ ax.set_title("Heatmap of the correlations ")
 
 ### From the heatmap above we see a strong positive correlation between the smoker and charges, if an individual is a smoker the charges are higher
 
+### Link to  Main Dash board 
+[main dashboard]<img width="626" alt="Screenshot 2024-05-21 142706" src="https://github.com/othinAbbey/Prediction-of-Product-Sales/assets/117769358/19b92733-660b-4cd5-a6f3-59e48d48fb2f">
+(https://public.tableau.com/views/Onyango_Abbey_Project_Dashboard_Core/Onyango_abbey_primary_dash?:language=en-US&publish=yes&:sid=&:display_count=n&:origin=viz_share_link)
+
+
